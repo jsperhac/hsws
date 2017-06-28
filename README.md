@@ -1,4 +1,4 @@
-CCR summer workshop git repo
+CCR summer workshop git repo (2017)
 
 J. M. Sperhac
 
