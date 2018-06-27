@@ -1,25 +1,25 @@
 # Data analytics and data visualization
 
-## Data visualizations
+This unwieldly list presents an assortment of useful and interesting data visualization techniques and examples.
 
-### Visualization Guidelines: Rules not to Break
+## Data Visualization Galleries and Blogs
 
-	http://flowingdata.com/2015/08/11/real-chart-rules-to-follow/
+From U.S. Census data: http://www.census.gov/dataviz/
 	
-### PIN Analysis: Analysis of 4-digit PIN number frequency
-With data visualizations and interpretations:
+https://flowingdata.com/
+	
+http://www.obscureanalytics.com/
 
-	http://datagenetics.com/blog/september32012/index.html	
-	
-a compendium of some commonly used passwords:
-	
-	https://github.com/danielmiessler/SecLists/tree/master/Passwords
-	
-### World climate visualization
+[Visualization Guidelines: Rules not to Break][viz-rules]
 
-	http://www.climate-lab-book.ac.uk/spirals/	
+## Visualizations and Computer Security
+
+### PIN Analysis
+Analysis of 4-digit PIN number frequency, with [data visualizations and interpretations][pin-viz]
 	
-### Paperscape: Visualize Academic Paper Interrelationships
+A compendium of [some commonly used passwords][passwords]
+
+## Paperscape: Visualizing Academic Paper Interrelationships
 
 This is a visualization tool for the interrelationships between academic
 papers on ArXiv. Each paper is represented by a circle. The size of the
@@ -27,98 +27,111 @@ circle is scaled by the number of citations, the color is related to the
 subject area, and it's searchable (enter e.g. "?a p.zoller" to search on
 one author). Click a circle to see information and links to that paper.
 
-	http://paperscape.org/
+http://paperscape.org/
 	
-source code:
+[Paperscape source code][paperscape-source]
 
-	https://github.com/paperscape
+[Article about Paperscape in The Guardian][paperscape-article]
 	
-an article about Paperscape:
+## Climate visualizations
 
-	https://www.theguardian.com/science/2013/sep/05/paperscape-universe-scientific-research-arxiv
-		
-### The Scale of the Universe
+http://www.climate-lab-book.ac.uk/spirals/	
 
-    http://htwins.net/scale2/
+#### Mapping the Spread of Drought Across the U.S.
 
-### A Timelapse Visualization of Nuclear Testing 
-
-    https://www.youtube.com/watch?v=WAnqRQg-W0k
-
-### A Visual History of the Atlantic Slave Trade
-
-    http://slate.me/1RzR3VX		
-
-### Cosmic Microwave Background (CMB) simulator
-
-Configure your own universe! Set up baryon density, dark matter and dark energy:
-
-	https://chrisnorth.github.io/planckapps/Simulator/
-
-### Mapping the Spread of Drought Across the U.S.
 NYT, 9 April 2015
 
 http://nyti.ms/1nw14bc
 
-### Vaccine rates in CA: a visualization
-    NYT, 6 Feb 2015
-    
-	http://nyti.ms/1ENj7Dg
+		
+## Astrophysics Visualizations		
+		
+[The Scale of the Universe][scaleofuniverse]
+
+#### Cosmic Microwave Background (CMB) simulator
+
+[Configure your own universe!][planckapps] Set up baryon density, dark matter and dark energy.
+
+## History and Social Science Visualizations
+
+[A Timelapse Visualization of Nuclear Testing][nuclear-viz]
+
+[A Visual History of the Atlantic Slave Trade][slave-trade]
+
+## Vaccine rates, health policy, and data  
+
+Vaccine rates in CA: a [visualization][vaccine], NYT, 6 Feb 2015
 	
 On vaccine legislation in CA:
-    
-    	http://www.wired.com/2015/06/sb277-california-is-now-the-perfect-test-lab-for-vaccine-laws/
+
+http://www.wired.com/2015/06/sb277-california-is-now-the-perfect-test-lab-for-vaccine-laws/
     	
 A measles death in the US:
-    
-    	http://www.forbes.com/sites/tarahaelle/2015/07/02/first-u-s-measles-death-in-more-than-a-decade/
 
+http://www.forbes.com/sites/tarahaelle/2015/07/02/first-u-s-measles-death-in-more-than-a-decade/
 
-### Data Visualization Galleries and Blogs
+Statistics, law, policy, and inoculation rates following the CA measles outbreak:
 
-	http://www.census.gov/dataviz/
+https://www.nytimes.com/2018/01/16/upshot/measles-vaccination-california-students.html
+
 	
-	https://flowingdata.com/
+## "Big Data"
+
+#### Calling B.S. on Big Data:
+
+http://www.newyorker.com/tech/elements/how-to-call-bullshit-on-big-data-a-practical-guide
+    
+#### Big data, veracity, and privacy
+
+http://foreignpolicy.com/2013/05/10/think-again-big-data/    
+
+#### Big Data is Creating Big Career Opportunities
+
+CNBC, June 5 2015
+
+http://www.cnbc.com/id/102730230
+
+#### Learning to See Data
+
+NYT, 27 Mar 2015
+
+http://nyti.ms/1HROePJ
 	
-	http://www.obscureanalytics.com/
+#### On the Case at Mt. Sinai, it's Dr. Data
+
+NYT, 7 March 2015
+
+http://nyti.ms/1Beq51N
 	
-### "Big Data"
+#### If algorithms know all, how much should humans help?
 
-Calling B.S. on Big Data:
+NYT, 6 April 2015
 
-    http://www.newyorker.com/tech/elements/how-to-call-bullshit-on-big-data-a-practical-guide
+http://nyti.ms/1NXkPEc
+
+#### From Paint to Pixels: How data became a medium for artists
+
+The Atlantic, 14 May 2015
     
-Big data, veracity, and privacy
+http://www.theatlantic.com/entertainment/archive/2015/05/the-rise-of-the-data-artist/392399/	
 
-	http://foreignpolicy.com/2013/05/10/think-again-big-data/    
+#### Bring us your Genes
 
-Big Data is Creating Big Career Opportunities
-    CNBC, June 5 2015
-    
-    http://www.cnbc.com/id/102730230
+Whole genome sequencing on a small population
 
-Learning to See Data
-    NYT, 27 Mar 2015
-    
-	http://nyti.ms/1HROePJ
-	
-On the Case at Mt. Sinai, it's Dr. Data
-    NYT, 7 March 2015
-    
-	http://nyti.ms/1Beq51N
-	
-If algorithms know all, how much should humans help?
-    NYT, 6 April 2015
-    
-	http://nyti.ms/1NXkPEc
-
-From Paint to Pixels: How data became a medium for artists
-    The Atlantic, 14 May 2015
-    
-    http://www.theatlantic.com/entertainment/archive/2015/05/the-rise-of-the-data-artist/392399/	
-
-"Bring us your Genes"--whole genome sequencing on a small population
-
-	http://nautil.us/issue/26/color/bring-us-your-genes
+http://nautil.us/issue/26/color/bring-us-your-genes
 
 
+[viz-rules]:http://flowingdata.com/2015/08/11/real-chart-rules-to-follow/
+[pin-viz]:http://datagenetics.com/blog/september32012/index.html
+[passwords]:https://github.com/danielmiessler/SecLists/tree/master/Passwords
+
+[paperscape-source]:https://github.com/paperscape
+[paperscape-article]:https://www.theguardian.com/science/2013/sep/05/paperscape-universe-scientific-research-arxiv
+
+[scaleofuniverse]:http://scaleofuniverse.com/
+[planckapps]:https://chrisnorth.github.io/planckapps/Simulator/
+
+[nuclear-viz]:https://www.youtube.com/watch?v=WAnqRQg-W0k
+[slave-trade]:http://slate.me/1RzR3VX
+[vaccine]:http://nyti.ms/1ENj7Dg
